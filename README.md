@@ -1,0 +1,2 @@
+# servidor
+Trabalho php etec 
